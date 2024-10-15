@@ -1,0 +1,5 @@
+boxmot==10.0.78
+ultralytics==8.2.81
+numba==0.60.0
+ncps==1.0.1
+torch-geometric==2.5.3
